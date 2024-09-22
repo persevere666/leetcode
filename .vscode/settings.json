@@ -10,5 +10,6 @@
             "path": "/Users/yangyw/local/Java/JavaVirtualMachines/jdk-17.0.10.jdk/Contents/Home",
             "default": true
         }
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }

@@ -4,6 +4,21 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+    
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "com.learn.interview.RemoveDuplicate",
+            "projectName": "leetcode_5acd81ab"
+        },
+        {
+            "type": "java",
+            "name": "_0010_RegularExpressionMatching",
+            "request": "launch",
+            "mainClass": "com.learn.leetcode._0010_RegularExpressionMatching",
+            "projectName": "leetcode_5acd81ab"
+        },
         {
             "type": "java",
             "name": "Current File",
