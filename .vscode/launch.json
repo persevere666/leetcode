@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    
+        {
+            "type": "java",
+            "name": "_0034_FindFirstAndLastPositionOfElementInSortedArray",
+            "request": "launch",
+            "mainClass": "com.learn.leetcode._0034_FindFirstAndLastPositionOfElementInSortedArray",
+            "projectName": "leetcode_5acd81ab"
+        },
         {
             "type": "java",
             "name": "RemoveDuplicate",
