@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_0039_CombinationSum",
+            "request": "launch",
+            "mainClass": "com.learn.leetcode._0039_CombinationSum",
+            "projectName": "leetcode_5acd81ab"
+        },
+        {
+            "type": "java",
+            "name": "_0036_ValidSudoku",
+            "request": "launch",
+            "mainClass": "com.learn.leetcode._0036_ValidSudoku",
+            "projectName": "leetcode_5acd81ab"
+        },
+        {
+            "type": "java",
+            "name": "_0037_SudokuSolver",
+            "request": "launch",
+            "mainClass": "com.learn.leetcode._0037_SudokuSolver",
+            "projectName": "leetcode_5acd81ab"
+        },
+        {
+            "type": "java",
             "name": "_0034_FindFirstAndLastPositionOfElementInSortedArray",
             "request": "launch",
             "mainClass": "com.learn.leetcode._0034_FindFirstAndLastPositionOfElementInSortedArray",
