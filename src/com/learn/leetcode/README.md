@@ -1,11 +1,26 @@
 
-
+# leetcode刷题记录
 
 ## 不会的题目
 
-### 65 有效数字
+### 65 有效数
+
+## 第一次没有思路的题目
+
+### 0084
+    不太懂
+### 0089 格雷编码
+    完全没思路，记住思路即可
+    挺简单的
+
+### 97. 交错字符串
+    虽然知道是dp算法，但是仍然没想出来
+
+
 
 ## 重点记忆的题目
+
+### 0005 最长回文子串 
 
 ### 0031 Next Permutation
     step1: find idx from end that i<i+1 
@@ -33,7 +48,28 @@
 
 ### 0069 x 的平方根 
 
+### 0073 set-matrix-zeroes
 
+### 0075 sort-colors
+    方式一：采用快排的思路
+    方式二：
+
+### 0076 minimum-window-substring 最小
+
+### 0081 search-in-rotated-sorted-array-ii
+
+### 0082 remove-duplicates-from-sorted-list-ii
+### 0083 删除排序链表中的重复元素
+
+### 0084 柱状图中最大的矩形
+
+### dp_0087. 扰乱字符串
+    
+### dp_0091 解码方法
+    没想到是dp类题目
+
+### 92. 反转链表 II
+    不熟练
 
 
 
